@@ -69,6 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# react-project-gama
-ReactJS project for the Hiring Coders by Gama Academy.
->>>>>>> 2facbe92204cd2719098db8683926af2306e9b36
